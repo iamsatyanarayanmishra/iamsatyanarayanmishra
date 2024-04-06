@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamsatyanarayanmishra
 - 👀 I’m interested in DSA and Python
 - 🌱 I’m currently learning MERN stack development
-- 💞️ I’m looking to collaborate on aolve DSA questions
+- 💞️ Collaborate with me if you want to solve DSA questions.
 - 📫 You can reach out me using iamsatyanarayanmishra@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: i am lazy but crazy to code
